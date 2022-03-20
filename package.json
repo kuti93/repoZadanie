@@ -1,0 +1,19 @@
+{
+  "author": "",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0"
+  },
+  "description": "",
+  "license": "ISC",
+  "main": "test.js",
+  "name": "repozadanie",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuti93/repoZadanie.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
